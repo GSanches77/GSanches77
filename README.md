@@ -6,7 +6,6 @@ My name's Gustavo Sanches, but you can just call me Sanches.
 
 🎓 Information Systems at Mackenzie University  
 👨‍💻 Passionate about development and data
-🌐 Fluent in English  
 
 ## I Code With
 <div>
