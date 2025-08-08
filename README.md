@@ -4,10 +4,9 @@ My name's Gustavo Sanches, but you can just call me Sanches.
 
 ## About Me
 
-🎓 Computer Science at Mackenzie University  
-👨‍💻 Passionate about development  
+🎓 Information Systems at Mackenzie University  
+👨‍💻 Passionate about development and data
 🌐 Fluent in English  
-🎯 Goal: Become a full-stack developer
 
 ## I Code With
 <div>
